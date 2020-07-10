@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cppsnake", "cppsnake\cppsnake.vcxproj", "{9EFBCB3E-B596-405D-A2A9-AE8DA28DF46D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EFBCB3E-B596-405D-A2A9-AE8DA28DF46D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9EFBCB3E-B596-405D-A2A9-AE8DA28DF46D}.Debug|Win32.Build.0 = Debug|Win32
+		{9EFBCB3E-B596-405D-A2A9-AE8DA28DF46D}.Release|Win32.ActiveCfg = Release|Win32
+		{9EFBCB3E-B596-405D-A2A9-AE8DA28DF46D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
